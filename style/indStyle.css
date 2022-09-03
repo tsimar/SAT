@@ -1,0 +1,26 @@
+*{
+    font-size: 1.05em;
+}
+#body{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    background-color: beige;
+}
+label{
+    box-sizing: content-box;
+    margin:5px auto;
+    width: 90%;
+    padding: 5px;
+    background-color: rgb(103, 103, 108);
+    color: white;
+   box-shadow:inset 0px -2px 0px #171717, 0px -2px 2px #f4f5f6;
+    border-radius: 5px;
+   
+   
+}
+select{
+    width: 90%;
+    margin: 5px auto;
+}

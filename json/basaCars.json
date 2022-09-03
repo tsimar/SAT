@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "title": "car1",
+      "distance": 150,
+      "year": 2012,
+      "consumption": 5,
+      "Vin": "WAUZZZ00000000000"
+    },
+    {
+      "id": 1,
+      "title": "car2",
+      "distance": 50,
+      "year": 2004,
+      "consumption": 10,
+      "Vin": "Vf3lcyczpjs085566"
+    },
+
+    {
+      "id": 2,
+      "title": "car3",
+      "distance": 90,
+      "year": 2007,
+      "consumption": 9,
+      "Vin": ""
+    }
+  ]
+}
