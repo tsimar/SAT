@@ -26,7 +26,7 @@ async function fetchJson() {
 selectTag.addEventListener("change", () => {
   basaCars.map((item, index) => {
     if (selectTag.value === `${index}`) {
-      changeValueLbl(item);
+      changeValueLBL(item);
     }
   });
 });
